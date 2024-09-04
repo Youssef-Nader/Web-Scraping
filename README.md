@@ -1,5 +1,5 @@
 # Wazzuf with beautifulsoup
-###1- Get the specialize job on the page of the website.
+### 1- Get the specialize job on the page of the website.
 ###2- get the job title.
 ###3- get get company name.
 ###3- get location of the company.
