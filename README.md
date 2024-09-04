@@ -1,4 +1,4 @@
-# Wazzuf with beautifulsoup
+# Wazzuf with Beautifulsoup
 #### 1- Get the specialize job on the page of the website.
 #### 2- Get the job title.
 #### 3- Get get company name.
